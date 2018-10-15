@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Recyclerview</string>
+
+    <string-array name="food_name">
+        <item>Sayur Bening</item>
+        <item>Sayur Makaroni</item>
+    </string-array>
+
+    <string-array name="desc">
+        <item>Sayur Bening enak</item>
+        <item>Sayur Makaroni Sedap</item>
+    </string-array>
+</resources>
